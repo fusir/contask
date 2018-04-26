@@ -15,7 +15,9 @@ This package helps you manage your tasks by ranking them.
 
 `./manyadd.sh` will accept a stream of tasks to add to the database new line delimited
 
+###Feature requests
 
+Make some.  I will put them here and people can rank them.
 
 ###Operation
 
