@@ -1,9 +1,9 @@
 
-###Description
+###Description###
 
 This package helps you manage your tasks by ranking them.
 
-###Usage
+###Usage###
 
 `./init.js` will initialize your task database
 
@@ -15,11 +15,11 @@ This package helps you manage your tasks by ranking them.
 
 `./manyadd.sh` will accept a stream of tasks to add to the database new line delimited
 
-###Feature requests
+###Feature requests###
 
 Make some.  I will put them here and people can rank them.
 
-###Operation
+###Operation###
 
 This set of programs manages a task database that is condorcet ranked.
 
