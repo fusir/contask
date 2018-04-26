@@ -1,0 +1,22 @@
+{
+  "name": "contask",
+  "version": "1.0.0",
+  "description": "Manage tasks with Condorset ranking",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task",
+    "management",
+    "project",
+    "management",
+    "life",
+    "management",
+    "todo",
+    "tasks",
+    "productivity"
+  ],
+  "author": "Fusir",
+  "license": "ISC"
+}
